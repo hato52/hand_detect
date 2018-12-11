@@ -1,0 +1,15 @@
+.vscode/
+csv/
+images/
+negative_data/
+not_use/
+positive_data/
+test_images/
+test_negative/
+test_positive/
+
+aGest.xml
+canny.py
+color_map.py
+hand_edge_svm.xml
+hand_svm2.xml
